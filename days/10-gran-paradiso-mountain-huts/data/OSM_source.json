@@ -1,0 +1,673 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-02T05:59:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 26863010,
+      "lat": 45.5178193,
+      "lon": 7.2672005,
+      "timestamp": "2023-04-09T18:32:26Z",
+      "tags": {
+        "ele": "4061",
+        "name": "Gran Paradiso",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353049715,
+      "lat": 45.6027461,
+      "lon": 7.5214985,
+      "timestamp": "2023-11-02T09:33:49Z",
+      "tags": {
+        "ele": "2582",
+        "name": "Rifugio del Misérin",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353049719,
+      "lat": 45.6492054,
+      "lon": 7.5884334,
+      "timestamp": "2026-08-12T10:25:38Z",
+      "tags": {
+        "ele": "2132",
+        "name": "Rifugio Barbustel",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 825250098,
+      "lat": 45.4513683,
+      "lon": 7.1860298,
+      "timestamp": "2026-08-18T17:28:32Z",
+      "tags": {
+        "ele": "1667",
+        "name": "Rifugio Guido Muzio",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1388585135,
+      "lat": 45.3891839,
+      "lon": 7.5572578,
+      "timestamp": "2023-11-02T11:07:13Z",
+      "tags": {
+        "ele": "1546",
+        "name": "San Bernardo di Mares",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1603857953,
+      "lat": 45.6120757,
+      "lon": 7.5515031,
+      "timestamp": "2025-02-23T16:27:45Z",
+      "tags": {
+        "ele": "2186",
+        "name": "Rifugio Dondena",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1666029174,
+      "lat": 45.5801976,
+      "lon": 7.303272,
+      "timestamp": "2026-05-05T03:01:05Z",
+      "tags": {
+        "ele": "2588",
+        "name": "Rifugio Vittorio Sella",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2063187252,
+      "lat": 45.4405183,
+      "lon": 7.2109609,
+      "timestamp": "2025-02-10T08:33:20Z",
+      "tags": {
+        "name": "Rifugio Massimo Mila",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2066354859,
+      "lat": 45.4723835,
+      "lon": 7.2888461,
+      "timestamp": "2025-02-04T08:23:16Z",
+      "tags": {
+        "ele": "2222",
+        "name": "Rifugio Casa di Caccia del Gran Piano",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2126346920,
+      "lat": 45.3536682,
+      "lon": 7.4817099,
+      "timestamp": "2022-01-26T12:17:45Z",
+      "tags": {
+        "ele": "1810",
+        "name": "Peretti Griva",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2949839549,
+      "lat": 45.4600925,
+      "lon": 7.1159308,
+      "timestamp": "2021-05-13T00:32:24Z",
+      "tags": {
+        "ele": "2470",
+        "name": "Rifugio Pian della Ballotta",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3290454779,
+      "lat": 45.5402746,
+      "lon": 7.2389001,
+      "timestamp": "2025-07-15T16:24:49Z",
+      "tags": {
+        "ele": "2710",
+        "name": "Rifugio Federico Chabod",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6418509638,
+      "lat": 45.3665832,
+      "lon": 7.5184592,
+      "timestamp": "2023-11-02T13:32:44Z",
+      "tags": {
+        "ele": "1723",
+        "name": "Rifugio Alpe Soglia",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8741993556,
+      "lat": 45.6853693,
+      "lon": 7.4092151,
+      "timestamp": "2023-07-19T16:28:53Z",
+      "tags": {
+        "ele": "2546",
+        "name": "Bivacco Ernesto Ménabréaz",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10971767991,
+      "lat": 45.5080262,
+      "lon": 7.5430023,
+      "timestamp": "2023-06-13T07:46:35Z",
+      "tags": {
+        "ele": "1434",
+        "name": "Rifugio Nivolastro",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55693843,
+      "timestamp": "2026-09-11T21:11:52Z",
+      "center": {
+        "lat": 45.3684921,
+        "lon": 7.1073864
+      },
+      "tags": {
+        "ele": "2594",
+        "name": "Refuge des Évettes",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58526794,
+      "timestamp": "2026-01-31T12:05:09Z",
+      "center": {
+        "lat": 45.5126737,
+        "lon": 7.2296059
+      },
+      "tags": {
+        "ele": "2735",
+        "name": "Rifugio Vittorio Emanuele II Nuovo",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59467218,
+      "timestamp": "2023-07-25T11:44:26Z",
+      "center": {
+        "lat": 45.4335638,
+        "lon": 7.1903811
+      },
+      "tags": {
+        "ele": "2250",
+        "name": "Rifugio Guglielmo Jervis",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61579174,
+      "timestamp": "2025-05-27T16:00:12Z",
+      "center": {
+        "lat": 45.4797953,
+        "lon": 7.142839
+      },
+      "tags": {
+        "ele": "2603",
+        "name": "Rifugio Città di Chivasso",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61579198,
+      "timestamp": "2023-07-10T20:59:19Z",
+      "center": {
+        "lat": 45.4859098,
+        "lon": 7.1434508
+      },
+      "tags": {
+        "ele": "2534",
+        "name": "Rifugio Savoia",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100195244,
+      "timestamp": "2023-11-09T22:36:38Z",
+      "center": {
+        "lat": 45.4198576,
+        "lon": 7.1230678
+      },
+      "tags": {
+        "ele": "2764",
+        "name": "Refuge du Carro",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100195472,
+      "timestamp": "2023-07-22T13:55:07Z",
+      "center": {
+        "lat": 45.3741136,
+        "lon": 7.0534721
+      },
+      "tags": {
+        "ele": "1830",
+        "name": "Chalet de Bonneval-sur-Arc",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100195867,
+      "timestamp": "2025-08-07T10:43:39Z",
+      "center": {
+        "lat": 45.3695814,
+        "lon": 7.0664578
+      },
+      "tags": {
+        "name": "Le Criou",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129677062,
+      "timestamp": "2014-06-12T20:39:48Z",
+      "center": {
+        "lat": 45.6575863,
+        "lon": 7.1923165
+      },
+      "tags": {
+        "ele": "1810",
+        "name": "Gite d'étape Etienne Dayné",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129785997,
+      "timestamp": "2025-12-26T11:42:06Z",
+      "center": {
+        "lat": 45.623519,
+        "lon": 7.2566427
+      },
+      "tags": {
+        "ele": "2310",
+        "name": "Bivacco Mario Gontier",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129790073,
+      "timestamp": "2023-07-19T16:28:38Z",
+      "center": {
+        "lat": 45.6211715,
+        "lon": 7.3035849
+      },
+      "tags": {
+        "ele": "2040",
+        "name": "Lou Mayèn de Léne",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130545657,
+      "timestamp": "2024-03-14T15:25:03Z",
+      "center": {
+        "lat": 45.6369856,
+        "lon": 7.6046292
+      },
+      "tags": {
+        "name": "Bar Ristoro Lago Muffé",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130668499,
+      "timestamp": "2023-08-15T10:02:47Z",
+      "center": {
+        "lat": 45.6435645,
+        "lon": 7.4102136
+      },
+      "tags": {
+        "ele": "2540",
+        "name": "Alpeggio di Grauson Dessus",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130763339,
+      "timestamp": "2023-07-20T15:12:46Z",
+      "center": {
+        "lat": 45.5961535,
+        "lon": 7.487862
+      },
+      "tags": {
+        "ele": "2529",
+        "name": "Sogno di Berdzé al Péradzà",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131413425,
+      "timestamp": "2025-12-07T22:03:36Z",
+      "center": {
+        "lat": 45.5555977,
+        "lon": 7.1276332
+      },
+      "tags": {
+        "ele": "2142",
+        "name": "Rifugio delle Marmotte",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131601693,
+      "timestamp": "2025-12-26T11:42:06Z",
+      "center": {
+        "lat": 45.6342128,
+        "lon": 7.4979573
+      },
+      "tags": {
+        "ele": "2156",
+        "name": "Bivacco Rotary Val Clavalité - Egidio Borroz",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131721336,
+      "timestamp": "2023-07-16T17:23:09Z",
+      "center": {
+        "lat": 45.5888464,
+        "lon": 7.0603246
+      },
+      "tags": {
+        "ele": "2370",
+        "name": "Rifugio Chalet de L’Épée",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 135675043,
+      "timestamp": "2024-12-07T12:58:30Z",
+      "center": {
+        "lat": 45.5792199,
+        "lon": 7.1912569
+      },
+      "tags": {
+        "name": "Casa Reale di caccia di Orvieille",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137043082,
+      "timestamp": "2023-11-07T12:09:37Z",
+      "center": {
+        "lat": 45.6675808,
+        "lon": 7.3456683
+      },
+      "tags": {
+        "ele": "2507",
+        "name": "Rifugio Arbolle",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137043135,
+      "timestamp": "2026-04-21T10:46:20Z",
+      "center": {
+        "lat": 45.6838363,
+        "lon": 7.3685638
+      },
+      "tags": {
+        "name": "Chalet Peccoz",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140882871,
+      "timestamp": "2026-04-21T13:19:34Z",
+      "center": {
+        "lat": 45.455581,
+        "lon": 7.0709711
+      },
+      "tags": {
+        "ele": "2324",
+        "name": "Refuge de Prariond",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147172024,
+      "timestamp": "2026-08-03T17:06:35Z",
+      "center": {
+        "lat": 45.5156949,
+        "lon": 7.0843627
+      },
+      "tags": {
+        "ele": "2285",
+        "name": "Rifugio Gian Federico Benevolo",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196853516,
+      "timestamp": "2018-06-04T13:06:00Z",
+      "center": {
+        "lat": 45.464937,
+        "lon": 7.3221033
+      },
+      "tags": {
+        "ele": "1520",
+        "name": "Rifugio Noaschetta",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 198366475,
+      "timestamp": "2024-06-23T07:27:18Z",
+      "center": {
+        "lat": 45.3755483,
+        "lon": 7.1835806
+      },
+      "tags": {
+        "ele": "2280",
+        "name": "Rifugio Paolo Daviso",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201625351,
+      "timestamp": "2023-07-11T19:14:46Z",
+      "center": {
+        "lat": 45.4958742,
+        "lon": 7.3689992
+      },
+      "tags": {
+        "ele": "2200",
+        "name": "Rifugio Pontese",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202161435,
+      "timestamp": "2026-07-17T12:44:04Z",
+      "center": {
+        "lat": 45.4401604,
+        "lon": 7.4679597
+      },
+      "tags": {
+        "ele": "1965",
+        "name": "Bivacco Blessent",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202517790,
+      "timestamp": "2019-03-20T22:14:03Z",
+      "center": {
+        "lat": 45.3998969,
+        "lon": 7.4172925
+      },
+      "tags": {
+        "name": "Rifugio Alpino Santa Pulenta",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204983509,
+      "timestamp": "2026-05-02T18:59:48Z",
+      "center": {
+        "lat": 45.5586081,
+        "lon": 7.5279144
+      },
+      "tags": {
+        "ele": "2019",
+        "name": "Rifugio Bausano (Rif. San Besso)",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300604804,
+      "timestamp": "2023-07-22T12:44:18Z",
+      "center": {
+        "lat": 45.629739,
+        "lon": 7.4524976
+      },
+      "tags": {
+        "ele": "2850",
+        "name": "Bivacco Muggia-Glarey",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322272031,
+      "timestamp": "2024-07-17T14:19:14Z",
+      "center": {
+        "lat": 45.5156337,
+        "lon": 7.2060602
+      },
+      "tags": {
+        "ele": "1996",
+        "name": "Rifugio Tetras Lyre",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322272072,
+      "timestamp": "2025-08-24T15:02:19Z",
+      "center": {
+        "lat": 45.5403424,
+        "lon": 7.2398015
+      },
+      "tags": {
+        "name": "Locale invernale Rifugio Chabod",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521081581,
+      "timestamp": "2023-11-09T22:36:41Z",
+      "center": {
+        "lat": 45.3682146,
+        "lon": 7.1844216
+      },
+      "tags": {
+        "ele": "2207",
+        "name": "Rifugio Eugenio Ferreri",
+        "tourism": "wilderness_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 810794662,
+      "timestamp": "2025-06-15T18:36:05Z",
+      "center": {
+        "lat": 45.6412681,
+        "lon": 7.4120386
+      },
+      "tags": {
+        "ele": "2510",
+        "name": "Rifugio Grauson",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 969841735,
+      "timestamp": "2025-01-17T10:53:50Z",
+      "center": {
+        "lat": 45.565501,
+        "lon": 7.5697482
+      },
+      "tags": {
+        "ele": "1874",
+        "name": "Rifugio Ciavanassa",
+        "tourism": "alpine_hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1204621072,
+      "timestamp": "2025-07-02T10:12:10Z",
+      "center": {
+        "lat": 45.4906512,
+        "lon": 7.6397692
+      },
+      "tags": {
+        "ele": "2439",
+        "name": "Bivacco Beltrando",
+        "tourism": "wilderness_hut"
+      }
+    }
+  ]
+}

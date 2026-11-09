@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4817099,
+          45.3536682
+        ]
+      },
+      "properties": {
+        "osm_id": 2126346920,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/2126346920",
+        "name": "Peretti Griva",
+        "tourism": "wilderness_hut",
+        "position_method": "original node",
+        "timestamp": "2022-01-26T12:17:45Z",
+        "tags_json": "{\"ele\": \"1810\", \"name\": \"Peretti Griva\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4092151,
+          45.6853693
+        ]
+      },
+      "properties": {
+        "osm_id": 8741993556,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/8741993556",
+        "name": "Bivacco Ernesto Ménabréaz",
+        "tourism": "wilderness_hut",
+        "position_method": "original node",
+        "timestamp": "2023-07-19T16:28:53Z",
+        "tags_json": "{\"ele\": \"2546\", \"name\": \"Bivacco Ernesto Ménabréaz\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1923165,
+          45.6575863
+        ]
+      },
+      "properties": {
+        "osm_id": 129677062,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/129677062",
+        "name": "Gite d'étape Etienne Dayné",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2014-06-12T20:39:48Z",
+        "tags_json": "{\"ele\": \"1810\", \"name\": \"Gite d'étape Etienne Dayné\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2566427,
+          45.623519
+        ]
+      },
+      "properties": {
+        "osm_id": 129785997,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/129785997",
+        "name": "Bivacco Mario Gontier",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-12-26T11:42:06Z",
+        "tags_json": "{\"ele\": \"2310\", \"name\": \"Bivacco Mario Gontier\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3035849,
+          45.6211715
+        ]
+      },
+      "properties": {
+        "osm_id": 129790073,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/129790073",
+        "name": "Lou Mayèn de Léne",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-19T16:28:38Z",
+        "tags_json": "{\"ele\": \"2040\", \"name\": \"Lou Mayèn de Léne\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4102136,
+          45.6435645
+        ]
+      },
+      "properties": {
+        "osm_id": 130668499,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/130668499",
+        "name": "Alpeggio di Grauson Dessus",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-08-15T10:02:47Z",
+        "tags_json": "{\"ele\": \"2540\", \"name\": \"Alpeggio di Grauson Dessus\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4979573,
+          45.6342128
+        ]
+      },
+      "properties": {
+        "osm_id": 131601693,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/131601693",
+        "name": "Bivacco Rotary Val Clavalité - Egidio Borroz",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-12-26T11:42:06Z",
+        "tags_json": "{\"ele\": \"2156\", \"name\": \"Bivacco Rotary Val Clavalité - Egidio Borroz\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3685638,
+          45.6838363
+        ]
+      },
+      "properties": {
+        "osm_id": 137043135,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/137043135",
+        "name": "Chalet Peccoz",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-04-21T10:46:20Z",
+        "tags_json": "{\"name\": \"Chalet Peccoz\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4679597,
+          45.4401604
+        ]
+      },
+      "properties": {
+        "osm_id": 202161435,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/202161435",
+        "name": "Bivacco Blessent",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-07-17T12:44:04Z",
+        "tags_json": "{\"ele\": \"1965\", \"name\": \"Bivacco Blessent\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4524976,
+          45.629739
+        ]
+      },
+      "properties": {
+        "osm_id": 300604804,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/300604804",
+        "name": "Bivacco Muggia-Glarey",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-22T12:44:18Z",
+        "tags_json": "{\"ele\": \"2850\", \"name\": \"Bivacco Muggia-Glarey\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2398015,
+          45.5403424
+        ]
+      },
+      "properties": {
+        "osm_id": 322272072,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/322272072",
+        "name": "Locale invernale Rifugio Chabod",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-08-24T15:02:19Z",
+        "tags_json": "{\"name\": \"Locale invernale Rifugio Chabod\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1844216,
+          45.3682146
+        ]
+      },
+      "properties": {
+        "osm_id": 521081581,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/521081581",
+        "name": "Rifugio Eugenio Ferreri",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-11-09T22:36:41Z",
+        "tags_json": "{\"ele\": \"2207\", \"name\": \"Rifugio Eugenio Ferreri\", \"tourism\": \"wilderness_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6397692,
+          45.4906512
+        ]
+      },
+      "properties": {
+        "osm_id": 1204621072,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/1204621072",
+        "name": "Bivacco Beltrando",
+        "tourism": "wilderness_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-07-02T10:12:10Z",
+        "tags_json": "{\"ele\": \"2439\", \"name\": \"Bivacco Beltrando\", \"tourism\": \"wilderness_hut\"}"
+      }
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5214985,
+          45.6027461
+        ]
+      },
+      "properties": {
+        "osm_id": 353049715,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/353049715",
+        "name": "Rifugio del Misérin",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2023-11-02T09:33:49Z",
+        "tags_json": "{\"ele\": \"2582\", \"name\": \"Rifugio del Misérin\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5884334,
+          45.6492054
+        ]
+      },
+      "properties": {
+        "osm_id": 353049719,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/353049719",
+        "name": "Rifugio Barbustel",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2026-08-12T10:25:38Z",
+        "tags_json": "{\"ele\": \"2132\", \"name\": \"Rifugio Barbustel\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1860298,
+          45.4513683
+        ]
+      },
+      "properties": {
+        "osm_id": 825250098,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/825250098",
+        "name": "Rifugio Guido Muzio",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2026-08-18T17:28:32Z",
+        "tags_json": "{\"ele\": \"1667\", \"name\": \"Rifugio Guido Muzio\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5572578,
+          45.3891839
+        ]
+      },
+      "properties": {
+        "osm_id": 1388585135,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/1388585135",
+        "name": "San Bernardo di Mares",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2023-11-02T11:07:13Z",
+        "tags_json": "{\"ele\": \"1546\", \"name\": \"San Bernardo di Mares\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5515031,
+          45.6120757
+        ]
+      },
+      "properties": {
+        "osm_id": 1603857953,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/1603857953",
+        "name": "Rifugio Dondena",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2025-02-23T16:27:45Z",
+        "tags_json": "{\"ele\": \"2186\", \"name\": \"Rifugio Dondena\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.303272,
+          45.5801976
+        ]
+      },
+      "properties": {
+        "osm_id": 1666029174,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/1666029174",
+        "name": "Rifugio Vittorio Sella",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2026-05-05T03:01:05Z",
+        "tags_json": "{\"ele\": \"2588\", \"name\": \"Rifugio Vittorio Sella\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2109609,
+          45.4405183
+        ]
+      },
+      "properties": {
+        "osm_id": 2063187252,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/2063187252",
+        "name": "Rifugio Massimo Mila",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2025-02-10T08:33:20Z",
+        "tags_json": "{\"name\": \"Rifugio Massimo Mila\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2888461,
+          45.4723835
+        ]
+      },
+      "properties": {
+        "osm_id": 2066354859,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/2066354859",
+        "name": "Rifugio Casa di Caccia del Gran Piano",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2025-02-04T08:23:16Z",
+        "tags_json": "{\"ele\": \"2222\", \"name\": \"Rifugio Casa di Caccia del Gran Piano\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1159308,
+          45.4600925
+        ]
+      },
+      "properties": {
+        "osm_id": 2949839549,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/2949839549",
+        "name": "Rifugio Pian della Ballotta",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2021-05-13T00:32:24Z",
+        "tags_json": "{\"ele\": \"2470\", \"name\": \"Rifugio Pian della Ballotta\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2389001,
+          45.5402746
+        ]
+      },
+      "properties": {
+        "osm_id": 3290454779,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/3290454779",
+        "name": "Rifugio Federico Chabod",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2025-07-15T16:24:49Z",
+        "tags_json": "{\"ele\": \"2710\", \"name\": \"Rifugio Federico Chabod\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5184592,
+          45.3665832
+        ]
+      },
+      "properties": {
+        "osm_id": 6418509638,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6418509638",
+        "name": "Rifugio Alpe Soglia",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2023-11-02T13:32:44Z",
+        "tags_json": "{\"ele\": \"1723\", \"name\": \"Rifugio Alpe Soglia\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5430023,
+          45.5080262
+        ]
+      },
+      "properties": {
+        "osm_id": 10971767991,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/10971767991",
+        "name": "Rifugio Nivolastro",
+        "tourism": "alpine_hut",
+        "position_method": "original node",
+        "timestamp": "2023-06-13T07:46:35Z",
+        "tags_json": "{\"ele\": \"1434\", \"name\": \"Rifugio Nivolastro\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1073864,
+          45.3684921
+        ]
+      },
+      "properties": {
+        "osm_id": 55693843,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/55693843",
+        "name": "Refuge des Évettes",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-09-11T21:11:52Z",
+        "tags_json": "{\"ele\": \"2594\", \"name\": \"Refuge des Évettes\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2296059,
+          45.5126737
+        ]
+      },
+      "properties": {
+        "osm_id": 58526794,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/58526794",
+        "name": "Rifugio Vittorio Emanuele II Nuovo",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-01-31T12:05:09Z",
+        "tags_json": "{\"ele\": \"2735\", \"name\": \"Rifugio Vittorio Emanuele II Nuovo\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1903811,
+          45.4335638
+        ]
+      },
+      "properties": {
+        "osm_id": 59467218,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/59467218",
+        "name": "Rifugio Guglielmo Jervis",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-25T11:44:26Z",
+        "tags_json": "{\"ele\": \"2250\", \"name\": \"Rifugio Guglielmo Jervis\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.142839,
+          45.4797953
+        ]
+      },
+      "properties": {
+        "osm_id": 61579174,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/61579174",
+        "name": "Rifugio Città di Chivasso",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-05-27T16:00:12Z",
+        "tags_json": "{\"ele\": \"2603\", \"name\": \"Rifugio Città di Chivasso\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1434508,
+          45.4859098
+        ]
+      },
+      "properties": {
+        "osm_id": 61579198,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/61579198",
+        "name": "Rifugio Savoia",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-10T20:59:19Z",
+        "tags_json": "{\"ele\": \"2534\", \"name\": \"Rifugio Savoia\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1230678,
+          45.4198576
+        ]
+      },
+      "properties": {
+        "osm_id": 100195244,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/100195244",
+        "name": "Refuge du Carro",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-11-09T22:36:38Z",
+        "tags_json": "{\"ele\": \"2764\", \"name\": \"Refuge du Carro\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0534721,
+          45.3741136
+        ]
+      },
+      "properties": {
+        "osm_id": 100195472,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/100195472",
+        "name": "Chalet de Bonneval-sur-Arc",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-22T13:55:07Z",
+        "tags_json": "{\"ele\": \"1830\", \"name\": \"Chalet de Bonneval-sur-Arc\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0664578,
+          45.3695814
+        ]
+      },
+      "properties": {
+        "osm_id": 100195867,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/100195867",
+        "name": "Le Criou",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-08-07T10:43:39Z",
+        "tags_json": "{\"name\": \"Le Criou\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6046292,
+          45.6369856
+        ]
+      },
+      "properties": {
+        "osm_id": 130545657,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/130545657",
+        "name": "Bar Ristoro Lago Muffé",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2024-03-14T15:25:03Z",
+        "tags_json": "{\"name\": \"Bar Ristoro Lago Muffé\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.487862,
+          45.5961535
+        ]
+      },
+      "properties": {
+        "osm_id": 130763339,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/130763339",
+        "name": "Sogno di Berdzé al Péradzà",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-20T15:12:46Z",
+        "tags_json": "{\"ele\": \"2529\", \"name\": \"Sogno di Berdzé al Péradzà\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1276332,
+          45.5555977
+        ]
+      },
+      "properties": {
+        "osm_id": 131413425,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/131413425",
+        "name": "Rifugio delle Marmotte",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-12-07T22:03:36Z",
+        "tags_json": "{\"ele\": \"2142\", \"name\": \"Rifugio delle Marmotte\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0603246,
+          45.5888464
+        ]
+      },
+      "properties": {
+        "osm_id": 131721336,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/131721336",
+        "name": "Rifugio Chalet de L’Épée",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-16T17:23:09Z",
+        "tags_json": "{\"ele\": \"2370\", \"name\": \"Rifugio Chalet de L’Épée\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1912569,
+          45.5792199
+        ]
+      },
+      "properties": {
+        "osm_id": 135675043,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/135675043",
+        "name": "Casa Reale di caccia di Orvieille",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2024-12-07T12:58:30Z",
+        "tags_json": "{\"name\": \"Casa Reale di caccia di Orvieille\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3456683,
+          45.6675808
+        ]
+      },
+      "properties": {
+        "osm_id": 137043082,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/137043082",
+        "name": "Rifugio Arbolle",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-11-07T12:09:37Z",
+        "tags_json": "{\"ele\": \"2507\", \"name\": \"Rifugio Arbolle\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0709711,
+          45.455581
+        ]
+      },
+      "properties": {
+        "osm_id": 140882871,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/140882871",
+        "name": "Refuge de Prariond",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-04-21T13:19:34Z",
+        "tags_json": "{\"ele\": \"2324\", \"name\": \"Refuge de Prariond\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0843627,
+          45.5156949
+        ]
+      },
+      "properties": {
+        "osm_id": 147172024,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/147172024",
+        "name": "Rifugio Gian Federico Benevolo",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-08-03T17:06:35Z",
+        "tags_json": "{\"ele\": \"2285\", \"name\": \"Rifugio Gian Federico Benevolo\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3221033,
+          45.464937
+        ]
+      },
+      "properties": {
+        "osm_id": 196853516,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/196853516",
+        "name": "Rifugio Noaschetta",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2018-06-04T13:06:00Z",
+        "tags_json": "{\"ele\": \"1520\", \"name\": \"Rifugio Noaschetta\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1835806,
+          45.3755483
+        ]
+      },
+      "properties": {
+        "osm_id": 198366475,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/198366475",
+        "name": "Rifugio Paolo Daviso",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2024-06-23T07:27:18Z",
+        "tags_json": "{\"ele\": \"2280\", \"name\": \"Rifugio Paolo Daviso\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3689992,
+          45.4958742
+        ]
+      },
+      "properties": {
+        "osm_id": 201625351,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/201625351",
+        "name": "Rifugio Pontese",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2023-07-11T19:14:46Z",
+        "tags_json": "{\"ele\": \"2200\", \"name\": \"Rifugio Pontese\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4172925,
+          45.3998969
+        ]
+      },
+      "properties": {
+        "osm_id": 202517790,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/202517790",
+        "name": "Rifugio Alpino Santa Pulenta",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2019-03-20T22:14:03Z",
+        "tags_json": "{\"name\": \"Rifugio Alpino Santa Pulenta\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5279144,
+          45.5586081
+        ]
+      },
+      "properties": {
+        "osm_id": 204983509,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/204983509",
+        "name": "Rifugio Bausano (Rif. San Besso)",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2026-05-02T18:59:48Z",
+        "tags_json": "{\"ele\": \"2019\", \"name\": \"Rifugio Bausano (Rif. San Besso)\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2060602,
+          45.5156337
+        ]
+      },
+      "properties": {
+        "osm_id": 322272031,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/322272031",
+        "name": "Rifugio Tetras Lyre",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2024-07-17T14:19:14Z",
+        "tags_json": "{\"ele\": \"1996\", \"name\": \"Rifugio Tetras Lyre\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4120386,
+          45.6412681
+        ]
+      },
+      "properties": {
+        "osm_id": 810794662,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/810794662",
+        "name": "Rifugio Grauson",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-06-15T18:36:05Z",
+        "tags_json": "{\"ele\": \"2510\", \"name\": \"Rifugio Grauson\", \"tourism\": \"alpine_hut\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5697482,
+          45.565501
+        ]
+      },
+      "properties": {
+        "osm_id": 969841735,
+        "osm_type": "way",
+        "osm_url": "https://www.openstreetmap.org/way/969841735",
+        "name": "Rifugio Ciavanassa",
+        "tourism": "alpine_hut",
+        "position_method": "Overpass bounding-box centre",
+        "timestamp": "2025-01-17T10:53:50Z",
+        "tags_json": "{\"ele\": \"1874\", \"name\": \"Rifugio Ciavanassa\", \"tourism\": \"alpine_hut\"}"
+      }
+    }
+  ]
+}

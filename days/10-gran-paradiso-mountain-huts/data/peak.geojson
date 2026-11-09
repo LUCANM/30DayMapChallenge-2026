@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2672005,
+          45.5178193
+        ]
+      },
+      "properties": {
+        "osm_id": 26863010,
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/26863010",
+        "name": "Gran Paradiso",
+        "tourism": "",
+        "position_method": "original node",
+        "timestamp": "2023-04-09T18:32:26Z",
+        "tags_json": "{\"ele\": \"4061\", \"name\": \"Gran Paradiso\", \"natural\": \"peak\"}"
+      }
+    }
+  ]
+}
